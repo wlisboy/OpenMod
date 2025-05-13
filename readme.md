@@ -14,7 +14,6 @@
 
 更新：https://t.me/magiskalpha
 
-
 - @tiann_KSU：[https://github.com/tiann/KernelSU](https://github.com/tiann/KernelSU/releases/latest)
 
 - @bmax121_APatch：[https://github.com/bmax121/APatch](https://github.com/bmax121/APatch/releases/latest)
