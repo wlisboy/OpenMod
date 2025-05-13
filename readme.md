@@ -83,11 +83,11 @@
 
 ## By_Ad Rules
 
+- @rongzhiy_LiTiaotiao：[https://github.com/rongzhiy/LiTiaotiao/releases](https://github.com/rongzhiy/LiTiaotiao/releases/latest)
+
 - @gkd-kit_gkd：[https://github.com/gkd-kit/gkd/releases](https://github.com/gkd-kit/gkd/releases/latest)
 
 订阅规则汇总 By @adproqwq：[https://github.com/Adpro-Team/GKD_THS_List](https://github.com/Adpro-Team/GKD_THS_List)
-
-- @rongzhiy_LiTiaotiao：[https://github.com/rongzhiy/LiTiaotiao/releases](https://github.com/rongzhiy/LiTiaotiao/releases/latest)
 
 - @twoone-3_AdGuardHomeForRoot：[https://github.com/twoone-3/AdGuardHomeForRoot/releases](https://github.com/twoone-3/AdGuardHomeForRoot/releases/latest)
 
@@ -95,5 +95,6 @@
 
 更新：https://t.me/AdClose
 
-:top:提示：以上列表排序不分先后、仅供参考
+- @AdAway：[https://github.com/AdAway/AdAway/releases](https://github.com/AdAway/AdAway/releases/latest)
 
+:top:提示：以上列表排序不分先后、仅供参考
