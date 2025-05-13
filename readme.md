@@ -10,7 +10,7 @@
 
 - @topjohnwu_Magisk：[https://github.com/topjohnwu/Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
 
-~~- @雪珊 南宫_Magisk alpha：[https://install.appcenter.ms/users/vvb2060/apps/magisk](https://install.appcenter.ms/users/vvb2060/apps/magisk/distribution_groups/public)~~
+- @雪珊 南宫_Magisk alpha：~~[https://install.appcenter.ms/users/vvb2060/apps/magisk](https://install.appcenter.ms/users/vvb2060/apps/magisk/distribution_groups/public)~~
 
 更新：https://t.me/magiskalpha
 
