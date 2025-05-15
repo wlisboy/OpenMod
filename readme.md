@@ -60,6 +60,8 @@
 
 - @ReChronoRain_HyperCeiler：[https://github.com/ReChronoRain/HyperCeiler/releases](https://github.com/ReChronoRain/HyperCeiler/releases/latest)
 
+ Canary Test：[https://github.com/ReChronoRain/HyperCeiler/actions](https://github.com/ReChronoRain/HyperCeiler/actions)
+
 - @MonwF_customiuizer：[https://github.com/MonwF/customiuizer/releases](https://github.com/MonwF/customiuizer/releases/latest)
 
 - @LuckyPray_XAutoDaily：[https://github.com/LuckyPray/XAutoDaily/releases](https://github.com/LuckyPray/XAutoDaily/releases/latest)
