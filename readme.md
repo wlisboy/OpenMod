@@ -84,6 +84,8 @@
 
 - @HdShare_WAuxiliary_Public：[https://github.com/HdShare/WAuxiliary_Public/releases](https://github.com/HdShare/WAuxiliary_Public/releases/latest)
 
+---
+
 ## By_Ad Rules
 
 - @rongzhiy_LiTiaotiao：[https://github.com/rongzhiy/LiTiaotiao/releases](https://github.com/rongzhiy/LiTiaotiao/releases/latest)
@@ -99,5 +101,17 @@
 更新：https://t.me/AdClose
 
 - @AdAway：[https://github.com/AdAway/AdAway/releases](https://github.com/AdAway/AdAway/releases/latest)
+
+---
+
+## Android_Google Play
+
+- @hideuvpn_android-google-play-store：[https://github.com/hideuvpn/android-google-play-store](https://github.com/hideuvpn/android-google-play-store）
+
+[google 服务框架下载：https://www.apkmirror.com/apk/google-inc/google-services-framework](https://www.apkmirror.com/apk/google-inc/google-services-framework)
+
+[google play service下载：https://www.apkmirror.com/apk/google-inc/google-play-services](https://www.apkmirror.com/apk/google-inc/google-play-services)
+
+[googleplay store下载：https://www.apkmirror.com/apk/google-inc/google-play-store](https://www.apkmirror.com/apk/google-inc/google-play-store)
 
 :top:提示：以上列表排序不分先后、仅供参考
