@@ -36,6 +36,8 @@
 
 - Shamiko：[https://github.com/LSPosed/LSPosed.github.io/releases](https://github.com/LSPosed/LSPosed.github.io/releases/latest)
 
+- @RikkaApps_Shizuku：[https://github.com/RikkaApps/Shizuku/releases](https://github.com/RikkaApps/Shizuku/releases/latest)
+
 - @xiaorun_Ruru：[https://github.com/byxiaorun/Ruru/releases](https://github.com/byxiaorun/Ruru/releases/latest)
 
 - @Xposed-Modules-Repo_cn.geektang.privacyspace：[https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace/releases](https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace/releases/latest)
