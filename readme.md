@@ -104,7 +104,7 @@
 
 ---
 
-## Android_Google Play
+## Android_Google
 
 - @hideuvpn_android-google-play-store：[https://github.com/hideuvpn/android-google-play-store](https://github.com/hideuvpn/android-google-play-store)
 
@@ -113,5 +113,19 @@
 [google play service下载：https://www.apkmirror.com/apk/google-inc/google-play-services](https://www.apkmirror.com/apk/google-inc/google-play-services)
 
 [google play store下载：https://www.apkmirror.com/apk/google-inc/google-play-store](https://www.apkmirror.com/apk/google-inc/google-play-store)
+
+- @WSTxda_QP-Gallery-Releases：[https://github.com/WSTxda/QP-Gallery-Releases/releases](https://github.com/WSTxda/QP-Gallery-Releases/releases/latest)
+
+- @WSTxda_MicroG-RE：[https://github.com/WSTxda/MicroG-RE/releases](https://github.com/WSTxda/MicroG-RE/releases/latest)
+
+- @WSTxda_ViperFX-RE-Releases：[https://github.com/WSTxda/ViperFX-RE-Releases/releases](https://github.com/WSTxda/ViperFX-RE-Releases/releases/latest)
+
+- @WSTxda_Google-Shortcuts-Launcher：[https://github.com/WSTxda/Google-Shortcuts-Launcher/releases](https://github.com/WSTxda/Google-Shortcuts-Launcher/releases/latest)
+
+- @inotia00_revanced-patches：[https://github.com/inotia00/revanced-patches/releases](https://github.com/inotia00/revanced-patches/releases/latest)
+
+- @Team-xManager_xManager：[https://github.com/Team-xManager/xManager/releases](https://github.com/Team-xManager/xManager/releases/latest)
+
+- @ReSo7200_InstaEclipse：[https://github.com/ReSo7200/InstaEclipse/releases](https://github.com/ReSo7200/InstaEclipse/releases/latest)
 
 :top:提示：以上列表排序不分先后、仅供参考
