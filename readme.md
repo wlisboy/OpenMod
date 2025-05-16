@@ -112,6 +112,6 @@
 
 [google play service下载：https://www.apkmirror.com/apk/google-inc/google-play-services](https://www.apkmirror.com/apk/google-inc/google-play-services)
 
-[googleplay store下载：https://www.apkmirror.com/apk/google-inc/google-play-store](https://www.apkmirror.com/apk/google-inc/google-play-store)
+[google play store下载：https://www.apkmirror.com/apk/google-inc/google-play-store](https://www.apkmirror.com/apk/google-inc/google-play-store)
 
 :top:提示：以上列表排序不分先后、仅供参考
