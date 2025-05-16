@@ -106,7 +106,7 @@
 
 ## Android_Google Play
 
-- @hideuvpn_android-google-play-store：[https://github.com/hideuvpn/android-google-play-store](https://github.com/hideuvpn/android-google-play-store）
+- @hideuvpn_android-google-play-store：[https://github.com/hideuvpn/android-google-play-store](https://github.com/hideuvpn/android-google-play-store)
 
 [google 服务框架下载：https://www.apkmirror.com/apk/google-inc/google-services-framework](https://www.apkmirror.com/apk/google-inc/google-services-framework)
 
