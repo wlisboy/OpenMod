@@ -84,6 +84,8 @@
 
 - @HdShare_WAuxiliary_Public：[https://github.com/HdShare/WAuxiliary_Public/releases](https://github.com/HdShare/WAuxiliary_Public/releases/latest)
 
+- @posed-Modules-Repo_wx.repair.tool：[https://github.com/Xposed-Modules-Repo/wx.repair.tool/releases](https://github.com/Xposed-Modules-Repo/wx.repair.tool/releases/latest)
+
 ---
 
 ## By_Ad Rules
