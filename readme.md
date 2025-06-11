@@ -48,7 +48,7 @@
 
 - @oxy2ray_safetynet-fix：[http://github.com/oxy2ray/safetynet-fix/releases](http://github.com/oxy2ray/safetynet-fix/releases/latest)
 
-- @chiteroman_PlayIntegrityFix：[https://github.com/chiteroman/PlayIntegrityFix/releases](https://github.com/chiteroman/PlayIntegrityFix/releases/latest)
+~-【停更】 @chiteroman_PlayIntegrityFix：[https://github.com/chiteroman/PlayIntegrityFix/releases](https://github.com/chiteroman/PlayIntegrityFix/releases/latest)~
 
 - @sothx_mipad-magic-window：[https://github.com/sothx/mipad-magic-window/releases](https://github.com/sothx/mipad-magic-window/releases/latest)
 
@@ -86,6 +86,8 @@
 
 - @posed-Modules-Repo_wx.repair.tool：[https://github.com/Xposed-Modules-Repo/wx.repair.tool/releases](https://github.com/Xposed-Modules-Repo/wx.repair.tool/releases/latest)
 
+- @HdShare_NullAvatar：[https://github.com/HdShare/NullAvatar/releases](https://github.com/HdShare/NullAvatar/releases/latest)
+  
 ---
 
 ## By_Ad Rules
