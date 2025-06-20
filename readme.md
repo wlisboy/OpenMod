@@ -54,6 +54,8 @@
 
 模块版本说明：[https://hyper-magic-window.sothx.com/module-download.html](https://hyper-magic-window.sothx.com/module-download.html)
 
+- @zyy574_dropcache-for-wsa-with-magisk：[https://github.com/zyy574/dropcache-for-wsa-with-magisk/blob/main/dropcache%E6%A8%A1%E5%9D%97.zip](https://github.com/zyy574/dropcache-for-wsa-with-magisk/blob/main/dropcache%E6%A8%A1%E5%9D%97.zip)
+
 ---
 
 ## LSPosed_Mod
