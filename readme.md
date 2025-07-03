@@ -114,11 +114,11 @@
 
 - @hideuvpn_android-google-play-store：[https://github.com/hideuvpn/android-google-play-store](https://github.com/hideuvpn/android-google-play-store)
 
-[google 服务框架下载：https://www.apkmirror.com/apk/google-inc/google-services-framework](https://www.apkmirror.com/apk/google-inc/google-services-framework)
+[直链跳转 google 服务框架（一般不推荐更新）](https://www.apkmirror.com/apk/google-inc/google-services-framework)
 
-[google play service下载：https://www.apkmirror.com/apk/google-inc/google-play-services](https://www.apkmirror.com/apk/google-inc/google-play-services)
+[直链跳转 google play service](https://www.apkmirror.com/apk/google-inc/google-play-services)
 
-[google play store下载：https://www.apkmirror.com/apk/google-inc/google-play-store](https://www.apkmirror.com/apk/google-inc/google-play-store)
+[直链跳转 google play store](https://www.apkmirror.com/apk/google-inc/google-play-store)
 
 - @WSTxda_QP-Gallery-Releases：[https://github.com/WSTxda/QP-Gallery-Releases/releases](https://github.com/WSTxda/QP-Gallery-Releases/releases/latest)
 
