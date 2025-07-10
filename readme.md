@@ -90,7 +90,7 @@
 
 - @HdShare_NullAvatar：[https://github.com/HdShare/NullAvatar/releases](https://github.com/HdShare/NullAvatar/releases/latest)
 
-- @SimpsonGet_XhsWatermarkRemove：[[https://github.com/SimpsonGet/XhsWatermarkRemove/releases](https://github.com/SimpsonGet/XhsWatermarkRemove/releases/latest)
+- @SimpsonGet_XhsWatermarkRemove：[https://github.com/SimpsonGet/XhsWatermarkRemove/releases](https://github.com/SimpsonGet/XhsWatermarkRemove/releases/latest)
   
 ---
 
