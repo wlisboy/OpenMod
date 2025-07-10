@@ -89,6 +89,8 @@
 - @posed-Modules-Repo_wx.repair.tool：[https://github.com/Xposed-Modules-Repo/wx.repair.tool/releases](https://github.com/Xposed-Modules-Repo/wx.repair.tool/releases/latest)
 
 - @HdShare_NullAvatar：[https://github.com/HdShare/NullAvatar/releases](https://github.com/HdShare/NullAvatar/releases/latest)
+
+- @SimpsonGet_XhsWatermarkRemove：[[https://github.com/SimpsonGet/XhsWatermarkRemove/releases](https://github.com/SimpsonGet/XhsWatermarkRemove/releases/latest)
   
 ---
 
