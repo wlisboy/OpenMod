@@ -142,6 +142,12 @@
 
 - @wanghongenpin_proxypin：[https://github.com/wanghongenpin/proxypin/releases](https://github.com/wanghongenpin/proxypin/releases/latest)
 
+证书1不行就用2
+
+[证书1： Magisk-ProxyPinCA](https://github.com/wanghongenpin/Magisk-ProxyPinCA/releases/latest)
+
+[证书2：MoveCertificate](https://github.com/ys1231/MoveCertificate/releases/latest)
+
 
 
 :top:提示：以上列表排序不分先后、仅供参考
