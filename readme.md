@@ -91,6 +91,12 @@
 - @HdShare_NullAvatar：[https://github.com/HdShare/NullAvatar/releases](https://github.com/HdShare/NullAvatar/releases/latest)
 
 - @SimpsonGet_XhsWatermarkRemove：[https://github.com/SimpsonGet/XhsWatermarkRemove/releases](https://github.com/SimpsonGet/XhsWatermarkRemove/releases/latest)
+
+- InstallerX
+
+~~【主线·停更】更新地址：https://github.com/iamr0s/InstallerX~~
+
+【分支·维护中】更新地址：[https://github.com/wxxsfxyzm/InstallerX-Revived/releases](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/latest)
   
 ---
 
