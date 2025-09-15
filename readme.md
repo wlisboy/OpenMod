@@ -60,6 +60,8 @@
 
 ## LSPosed_Mod
 
+[汇总·不定时更新·感谢所有付出的作者](https://github.com/orgs/Xposed-Modules-Repo/repositories?type=all)
+
 - @ReChronoRain_Cemiuiler：[https://github.com/ReChronoRain/Cemiuiler/releases](https://github.com/ReChronoRain/Cemiuiler/releases/latest)
 
 - @ReChronoRain_HyperCeiler：[https://github.com/ReChronoRain/HyperCeiler/releases](https://github.com/ReChronoRain/HyperCeiler/releases/latest)
@@ -73,6 +75,12 @@
 - @cinit_QAuxiliary ：[https://github.com/cinit/QAuxiliary/releases](https://github.com/cinit/QAuxiliary/releases/latest)
 
 - @Xposed-Modules-Repo_top.hookvip.pro：[https://github.com/Xposed-Modules-Repo/top.hookvip.pro/releases](https://github.com/Xposed-Modules-Repo/top.hookvip.pro/releases/latest)
+
+- @Xposed-Modules-Repo_me.feimeng.vip：[https://github.com/Xposed-Modules-Repo/me.feimeng.vip](https://github.com/Xposed-Modules-Repo/me.feimeng.vip/releases/latest)
+
+- @Xposed-Modules-Repo_junzi.xposed.hook：[https://github.com/Xposed-Modules-Repo/junzi.xposed.hook](https://github.com/Xposed-Modules-Repo/junzi.xposed.hook/releases/latest)
+ 
+- @Xposed-Modules-Repo_bilibili.helper：[https://github.com/Xposed-Modules-Repo/bilibili.helper](https://github.com/Xposed-Modules-Repo/bilibili.helper/releases/latest)
 
 ~~【停更】 @KimmyXYC_BiliRoaming：[https://github.com/KimmyXYC/BiliRoaming/releases](https://github.com/KimmyXYC/BiliRoaming/releases/latest)~~
 
@@ -91,6 +99,8 @@
 - @HdShare_NullAvatar：[https://github.com/HdShare/NullAvatar/releases](https://github.com/HdShare/NullAvatar/releases/latest)
 
 - @SimpsonGet_XhsWatermarkRemove：[https://github.com/SimpsonGet/XhsWatermarkRemove/releases](https://github.com/SimpsonGet/XhsWatermarkRemove/releases/latest)
+
+- @kmod-midori_CatShare：[https://github.com/kmod-midori/CatShare](https://github.com/kmod-midori/CatShare/releases/latest)
 
 - InstallerX
 
